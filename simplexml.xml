@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="simple.xslt" ?>
+<flight>
+
+<item>
+<name>Delhi - Mumbai AN1560 : </name>
+<price>Rs.5675</price>
+<description>No Stop - </description>
+<category>Domestic</category>
+</item>
+
+<item>
+<name>Mumbai - Kolkata AN2399 : </name>
+<price>Rs.7789</price>
+<description>Two Stops (Bengaluru,Ranchi) - </description>
+<category>Domestic</category>
+</item>
+
+<item>
+<name>Delhi - Kolkata AN6969 : </name>
+<price>Rs.4559</price>
+<description>One stop (Kolkata) - </description>
+<category>Domestic</category>
+</item>
+
+<item>
+<name>Chennai - Mumbai AN3867 : </name>
+<price>Rs.6754</price>
+<description>No stop - </description>
+<category>Domestic</category>
+</item>
+
+<item>
+<name>Delhi - Chennai AN6795 : </name>
+<price>Rs.5876</price>
+<description>One stop (Bengaluru) - </description>
+<category>Domestic</category>
+</item>
+
+</flight>
+
